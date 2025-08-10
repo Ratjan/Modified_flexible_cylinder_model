@@ -1,6 +1,6 @@
 # Modified_flexible_cylinder_model
 
-Early attempt at Python implementation (for ease of use) of the modified flexible cylinder model developed by J.S. Pedersen presented in: 
+Early attempt at Python implementation (for ease of use) of the modified flexible cylinder model developed by Pedersen JS presented in: 
 Correlation between arabinose content and the conformation of arabinoxylan in water dispersions
 https://doi.org/10.1016/j.carbpol.2025.124082.
 
